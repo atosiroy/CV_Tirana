@@ -1,2 +1,2 @@
 # CV_Tirana
-projects of computer vision course at University of Polytechnic Tirana
+exercises of the computer vision course at the Polytechnic University of Tirana
